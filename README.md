@@ -1,3 +1,3 @@
 # Fakultät
 
-Dekrementierender, iterativer Fakultät-Algorithmus
+Dekrementierender, iterativer Fakultät-Algorithmus in C geschrieben
